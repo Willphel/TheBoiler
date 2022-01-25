@@ -1268,3 +1268,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.01.25-16.02.15:103][218]LogSavePackage: Moving 'C:/Users/maxim/Documents/GitHub/TheBoiler/TheBoiler/Saved/VRTemplateMap13D4A1B84AA88C663AC4619C2BF6FA60.tmp' to 'C:/Users/maxim/Documents/GitHub/TheBoiler/TheBoiler/Content/VRTemplate/Maps/VRTemplateMap.umap'
 [2022.01.25-16.02.15:130][218]AssetCheck: New page: Asset Save: VRTemplateMap
 [2022.01.25-16.02.15:130][218]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2022.01.25-16.02.54:615][627]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.01.25-16.02.54:897][627]LogSavePackage: Moving 'C:/Users/maxim/Documents/GitHub/TheBoiler/TheBoiler/Saved/VRTemplateMapC4419E7443090728D7756AB1CBC38CB4.tmp' to 'C:/Users/maxim/Documents/GitHub/TheBoiler/TheBoiler/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2022.01.25-16.02.54:930][627]AssetCheck: New page: Asset Save: VRTemplateMap
+[2022.01.25-16.02.54:930][627]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
