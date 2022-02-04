@@ -1117,15 +1117,9 @@ Scalability:ShadingQuality@3:r.HairStrands.SkyLighting.IntegrationType:0=2
 Scalability:ShadingQuality@3:r.HairStrands.SkyAO.SampleCount:0=4
 Scalability:ShadingQuality@3:r.HairStrands.Visibility.MSAA.SamplePerPixel:0=4
 Scalability:ShadingQuality@3:r.HairStrands.Interpolation.UseSingleGuide:0=0
-Hardware:GPU_NVIDIA:Blacklist:0=(DriverVersion="<=347.09", Reason="Crashes with Paragon content using more recent GPU features")
-Hardware:GPU_NVIDIA:Blacklist:1=(DriverVersion="==372.70", Reason="This driver version has many known stability issues")
-Hardware:GPU_NVIDIA:Blacklist:2=(DriverVersion="==388.31", Reason="This driver version has known stability issues")
-Hardware:GPU_NVIDIA:Blacklist:3=(DriverVersion="==388.43", Reason="This driver version has known stability issues")
-Hardware:GPU_NVIDIA:Blacklist:4=(DriverVersion="==388.71", Reason="This driver version has known stability issues")
-Hardware:GPU_NVIDIA:Blacklist:5=(DriverVersion="==376.54", Reason="This driver version has many known stability issues")
-Hardware:GPU_NVIDIA:Blacklist:6=(DriverVersion="==382.05", Reason="This driver version has many known stability issues")
-Hardware:GPU_NVIDIA:Blacklist:7=(DriverVersion="==388.57", Reason="This driver version has many known stability issues")
-Hardware:GPU_NVIDIA:Blacklist:8=(DriverVersion="==461.40", Reason="This driver version has known stability issues")
+Hardware:GPU_AMD:Blacklist:0=(DriverVersion="==15.300.1025.1001", Reason="Crashes with Paragon content using more recent GPU features")
+Hardware:GPU_AMD:Blacklist:1=(DriverVersion="<=22.19.662.4", Reason="Older drivers known to cause crashes with integrated laptop graphics on at least R5 and R6")
+Hardware:GPU_AMD:Blacklist:2=(DriverVersion="<=26.20.13031.15006", Reason="Driver crashes creating PSOs", RHI="D3D12")
 DeviceProfiles:Windows DeviceProfile:DeviceType:0=Windows
 DeviceProfiles:Windows DeviceProfile:BaseProfileName:0=
 DeviceProfiles:WindowsNoEditor DeviceProfile:DeviceType:0=Windows
