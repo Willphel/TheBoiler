@@ -1,2 +1,7 @@
-# TheBoiler
- VRGameforCSCI313
+## The Boiler is a game which Maximo Perasso and Guy Phelps worked together on to develop for the 'audio and sound' assignment for CSCI 313.
+
+### Enviornmental and production development process
+
+This game takes place deep in the basement of a populated building, in which the player in charge of maintaining the boiler's pressure. The boiler's pressure is slowly increasing, shown as a physical gauge on the boiler. If this pressure gets too high a steam whistle on the side of the boiler starts making noise indicating danger, and eventually the boiler explodes and the game ends. To prevent this, the player must interact with the red turn valve connected to the boiler to lower the pressure back to safe levels. We also included strategic gameplay elements in the form of the pipes scattered around the room, which at random will rattle and eventually detach, causing a very loud steam noise as well as speeds up the boiler's pressure increase. If every one of these pipes are allowed to rupture, the pressure increase will become too fast for the valve to overcome, meaning the player must focus their attention on these other elements to win. They can reset the pipes to a 'fixed' state by hitting them with the provided wrench in the map!
+
+Our production process consisted of a thorough brainstorming session to develop gameplay and setting ideas over the first couple of days , and an immediate development of a rudimentary layout of the game using simple placeholder objects. Over the course of the following week, the placement of the elements were tested to confirm they would work with our gameplay, and we began replacing the placeholder assets with their properly modeled counterparts, as well as developing key gameplay elements. Throughout this process we frequently went to the lab and tested our progress to make sure no VR specific bugs were occurring.
