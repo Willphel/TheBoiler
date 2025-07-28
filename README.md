@@ -2,8 +2,8 @@
 The Boiler is part 1 of a game called SUBSTATION 7 which Maximo Perasso and Guy Phelps worked together on to develop for the 'audio and sound' assignment for CSCI 313 while at the University of North Carolina at Asheville.
 The other parts can be found below: 
 
-# Lights out: [https://github.com/Willphel/LightsOut](https://github.com/Willphel/LightsOut)
-# Power Surge: [https://github.com/Willphel/PowerSurge](https://github.com/Willphel/PowerSurge)
+ Lights out: [https://github.com/Willphel/LightsOut](https://github.com/Willphel/LightsOut)
+ Power Surge: [https://github.com/Willphel/PowerSurge](https://github.com/Willphel/PowerSurge)
 
 ### Enviornmental and production development process
 
@@ -18,11 +18,17 @@ The game was developed in 3 chapters as the course progressed, eventually becomi
 - Power Surge
 
 
-Youtube links showing game development: 
+## Full gameplay videos: 
+Ending 1: [https://www.youtube.com/watch?v=T_dHnz7xMYE](https://www.youtube.com/watch?v=T_dHnz7xMYE)
+
+Ending 2: [https://www.youtube.com/watch?v=1wOtM6KrukA](https://www.youtube.com/watch?v=1wOtM6KrukA)
+
+# Youtube links showing game development: 
+
 THE BOILER - DEMO - [https://www.youtube.com/watch?v=M8yWLwtUMFY](https://www.youtube.com/watch?v=M8yWLwtUMFY)
+
 LIGHTS OUT - Development Footage - [https://www.youtube.com/watch?v=M8yWLwtUMFY](https://www.youtube.com/watch?v=o4zHnHFtpEk)
+
 LIGHTS OUT - FULL PLAYTHROUGH - [https://www.youtube.com/watch?v=mMcw-vYe20c](https://www.youtube.com/watch?v=mMcw-vYe20c)
 
-## Full gameplay: 
-Ending 1: [https://www.youtube.com/watch?v=T_dHnz7xMYE](https://www.youtube.com/watch?v=T_dHnz7xMYE)
-Ending 2: [https://www.youtube.com/watch?v=1wOtM6KrukA](https://www.youtube.com/watch?v=1wOtM6KrukA)
+
