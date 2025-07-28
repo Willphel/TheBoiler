@@ -1,4 +1,9 @@
-## The Boiler is part 1 of a game called SUBSTATION 7 which Maximo Perasso and Guy Phelps worked together on to develop for the 'audio and sound' assignment for CSCI 313 while at the University of North Carolina at Asheville.
+### Overview 
+The Boiler is part 1 of a game called SUBSTATION 7 which Maximo Perasso and Guy Phelps worked together on to develop for the 'audio and sound' assignment for CSCI 313 while at the University of North Carolina at Asheville.
+The other parts can be found below: 
+
+# Lights out: [https://github.com/Willphel/LightsOut](https://github.com/Willphel/LightsOut)
+# Power Surge: [https://github.com/Willphel/PowerSurge](https://github.com/Willphel/PowerSurge)
 
 ### Enviornmental and production development process
 
